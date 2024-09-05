@@ -4,7 +4,7 @@
  * Description: Automatically adds 'via @xxxx' to Twitter share links.
  * Version: 1.0
  * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author URI: https://github.com/childtheme/codesupple
  */
 
 // Hook to modify the Twitter share URL
