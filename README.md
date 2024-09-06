@@ -1,4 +1,4 @@
-Custom Footer for Elementor (Free Version)
+Custom Footer for Elementor (Free Version).
 A plugin to add a custom footer using the free version of Elementor.
 
 Steps to Set Up the Plugin
