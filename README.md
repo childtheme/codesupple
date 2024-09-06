@@ -16,3 +16,5 @@ Once the footer is set, it will automatically display on your website as the cus
 
 I recommend to use this free Footer library:
 https://elebuilds.com/free-elementor-footer-templates-pack-1/
+
+![Alt text](https://github.com/childtheme/codesupple/blob/main/screenshot.jpg)
