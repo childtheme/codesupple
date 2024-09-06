@@ -1,3 +1,6 @@
+Custom Footer for Elementor (Free Version)
+A plugin to add a custom footer using the free version of Elementor.
+
 Steps to Set Up the Plugin
 
 1. Once you've created the plugin, go to your WordPress dashboard, navigate to Plugins, and activate the Custom Footer for Elementor (Free Version) plugin.
