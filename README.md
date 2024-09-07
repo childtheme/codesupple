@@ -1,3 +1,7 @@
+Hello and welcome to my CodeSupply plugin page!
+
+Currently, you can find the Customizer Import and Free Elementor Footer plugins here, both fully compatible and designed to work seamlessly with the Maag WordPress theme.
+
 Custom Footer for Elementor (Free Version).
 A plugin to add a custom footer using the free version of Elementor.
 
@@ -21,3 +25,5 @@ I recommend to use this free Footer library:
 https://elebuilds.com/free-elementor-footer-templates-pack-1/
 
 ![Alt text](https://github.com/childtheme/codesupple/blob/main/screenshot.jpg)
+
+
