@@ -1,5 +1,6 @@
-Plugin Name: Customizer Importer for Maag WordPress theme
-Description: Allows users to import Customizer settings from multiple .dat files using One Click Demo Import.
+Plugin Customizer Importer for Maag WordPress theme.
+
+Allows users to import Customizer settings from multiple .dat files using One Click Demo Import.
 
 After installation, please navigate to the Appearance > Import Customizer Data tab.
 
