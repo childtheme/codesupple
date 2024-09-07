@@ -1,4 +1,4 @@
-Hello and welcome to my CodeSupply plugin page!
+Hello and welcome to my CodeSupply plugins page!
 
 Currently, you can find the Customizer Import and Free Elementor Footer plugins here, both fully compatible and designed to work seamlessly with the Maag WordPress theme.
 
