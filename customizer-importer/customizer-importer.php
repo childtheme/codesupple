@@ -5,7 +5,7 @@
  * Version: 1.1
  * Author: Dmitrii Chempalov
  * Author URL: https://github.com/childtheme/codesupple/tree/customizer-importer-maag
- * Text Domain: customizer-importer
+ * Text Domain: customizer-importer-maag
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
