@@ -5,6 +5,10 @@ Currently, you can find the Customizer Import for Maag and Newsreader WordPress 
 https://github.com/childtheme/codesupple/tree/customizer-importer-maag 
 https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
 
+[Watch the video](https://github.com/childtheme/codesupple/blob/main/video_customizer.mp4)
+
+
+
 and Free Elementor Footer plugins here, which fully compatible and designed to work seamlessly with the Maag and Newsreader WordPress themes:
 
 https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/
