@@ -15,6 +15,6 @@ Important: You are only importing Customizer settings (.dat files) from the list
 
 If you wish to import the full demo (including content, widgets, etc.), please navigate to Appearance > Themes Demos. The license should be active!
 
-![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer/screenshot.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer/screenshot3.jpg)
 
 
