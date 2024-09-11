@@ -5,10 +5,9 @@ Currently, you can find the Customizer Import for Maag and Newsreader WordPress 
 https://github.com/childtheme/codesupple/tree/customizer-importer-maag 
 https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
 
-Youtuble Video instruction: https://www.youtube.com/watch?v=7iJVH67Cg7A
+Youtube Video instruction: https://www.youtube.com/watch?v=7iJVH67Cg7A
+
 [![Watch the video](https://i.ytimg.com/an_webp/7iJVH67Cg7A/mqdefault_6s.webp?du=3000&sqp=CNCThLcG&rs=AOn4CLAuhZ0VrEiBiH_Zcl_FMNm5XD1xsQ)](https://www.youtube.com/watch?v=7iJVH67Cg7A)
-
-
 
 [Download mp4 video instruction](https://github.com/childtheme/codesupple/blob/main/video_customizer.mp4)
 
