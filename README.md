@@ -1,6 +1,6 @@
 Hello and welcome to my CodeSupply plugins page!
 
-Currently, you can find the Customizer Import for Newsreader WordPress theme https://github.com/childtheme/codesupple/tree/customizer-importer and Free Elementor Footer plugins here, both fully compatible and designed to work seamlessly with the Newsreader WordPress theme.
+Currently, you can find the Customizer Import for Newsreader WordPress theme and Free Elementor Footer plugins here, both fully compatible and designed to work seamlessly with the Newsreader WordPress theme.
 
 Plugin Customizer Importer for Newsreader WordPress theme.
 
