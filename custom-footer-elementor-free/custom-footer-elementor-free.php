@@ -4,6 +4,7 @@
  * Description: A plugin to add a custom footer using the free version of Elementor.
  * Version: 1.0
  * Author: Dmitrii Chempalov
+ * Author URI: https://github.com/childtheme/codesupple/
  * License: GPLv2 or later
  */
 
