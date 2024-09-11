@@ -4,7 +4,7 @@
  * Description: Allows users to import Customizer settings from multiple .dat files using One Click Demo Import.
  * Version: 1.1
  * Author: Dmitrii Chempalov
- * Author URL: https://github.com/childtheme/codesupple
+ * Author URI: https://github.com/childtheme/codesupple
  * Text Domain: customizer-importer
  */
 
