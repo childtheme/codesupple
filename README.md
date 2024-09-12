@@ -7,8 +7,6 @@ https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
 
 Youtube Video instruction: https://www.youtube.com/watch?v=7iJVH67Cg7A
 
-[Watch the YouTube video](https://www.youtube.com/watch?v=7iJVH67Cg7A)
-
 [Download mp4 video instruction](https://github.com/childtheme/codesupple/blob/main/video_customizer.mp4)
 
 and Free Elementor Footer plugins here, which fully compatible and designed to work seamlessly with the Maag and Newsreader WordPress themes:
