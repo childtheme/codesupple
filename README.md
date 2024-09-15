@@ -4,7 +4,7 @@ Allows users to import Customizer settings from multiple .dat files using One Cl
 
 Youtube Video instruction: https://www.youtube.com/watch?v=7iJVH67Cg7A
 
-[![Watch the video](https://i.ytimg.com/an_webp/7iJVH67Cg7A/mqdefault_6s.webp)](https://www.youtube.com/watch?v=7iJVH67Cg7A)
+[![Watch the video](https://i.ytimg.com/an_webp/7iJVH67Cg7A/mqdefault_6s.webp?du=3000&sqp=CLDhmbcG&rs=AOn4CLBL90UV9Dj5DuzAyIgI5JHpQzU8Uw)](https://www.youtube.com/watch?v=7iJVH67Cg7A)
 
 [Download mp4 video instruction](https://github.com/childtheme/codesupple/blob/main/video_customizer.mp4)
 
