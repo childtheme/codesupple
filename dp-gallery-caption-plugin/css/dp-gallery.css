@@ -1,0 +1,61 @@
+.dp-gallery {
+    display: grid;
+    gap: 10px;
+}
+
+.dp-gallery.columns-1 {
+    grid-template-columns: 1fr;
+}
+
+.dp-gallery.columns-2 {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.dp-gallery.columns-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.dp-gallery.columns-4 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.dp-gallery figure {
+    margin: 0;
+    position: relative;
+}
+
+.dp-gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.dp-gallery figcaption {
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.dp-gallery .caption-content {
+    max-height: 100px; /* Limit the height of the caption */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 5px; /* Padding for the text */
+    color: #fff;
+}
+
+/* Optional: Custom scrollbar styling */
+.dp-gallery .caption-content::-webkit-scrollbar {
+    width: 6px; /* Width of the scrollbar */
+}
+
+.dp-gallery .caption-content::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.5); /* Color of the scrollbar thumb */
+    border-radius: 3px; /* Rounded corners */
+}
+
+.dp-gallery .caption-content::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3); /* Background of the scrollbar track */
+}
