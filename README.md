@@ -1,9 +1,8 @@
 Hello and welcome to my CodeSupply plugins page!
 
 Currently, you can find the Customizer Import for Maag and Newsreader WordPress themes 
-
-https://github.com/childtheme/codesupple/tree/customizer-importer-maag 
-https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
+1) https://github.com/childtheme/codesupple/tree/customizer-importer-maag 
+2) https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
 
 Youtube Video instruction: 
 
@@ -15,7 +14,7 @@ and Free Elementor Footer plugins here, which fully compatible and designed to w
 
 https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/
 
-Custom Footer for Elementor (Free Version).
+3) Custom Footer for Elementor (Free Version).
 A plugin to add a custom footer using the free version of Elementor.
 
 Steps to Set Up the Plugin
@@ -53,5 +52,22 @@ Important: You are only importing Customizer settings (.dat files) from the list
 If you wish to import the full demo (including content, widgets, etc.), please navigate to Appearance > Themes Demos. The license should be active!
 
 ![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/screenshot.jpg)
+
+4) DP Gallery with Caption a plugin to create a gallery with captions at the bottom and allow columns selection via shortcode
+
+Instruction: 
+
+1. You need to copy the image ID on the Media Library:
+   
+![Alt text](https://github.com/childtheme/codesupple/blob/dp-gallery-caption-plugin/screenshot1.png)
+
+3.  Then navigate to the page and add shortcode with your values for columns and images. Example:
+
+   [dp_gallery columns="4" ids="2277, 172, 173, 168"]
+
+![Alt text](https://github.com/childtheme/codesupple/blob/dp-gallery-caption-plugin/step2.jpg)
+
+3. Result:
+![Alt text](https://github.com/childtheme/codesupple/blob/dp-gallery-caption-plugin/screenshot2.jpg)
 
 
