@@ -9,6 +9,7 @@ Instruction:
 ![Alt text](https://github.com/childtheme/codesupple/blob/dp-gallery-caption-plugin/screenshot1.png)
 
 3.  Then navigate to the page and add shortcode with your values for columns and images. Example:
+
    [dp_gallery columns="4" ids="2277, 172, 173, 168"]
 
 ![Alt text](https://github.com/childtheme/codesupple/blob/dp-gallery-caption-plugin/step2.jpg)
