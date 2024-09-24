@@ -25,7 +25,7 @@ Steps to Set Up the Plugin
 - Publish the footer template.
 - Assign the Footer Template in Plugin Settings.
 
-3. After activating the plugin, go to Settings → Custom Footer in your WordPress dashboard.
+After activating the plugin, go to Settings → Custom Footer in your WordPress dashboard.
 Select the footer template you created from the dropdown list and click Save Footer Template.
 
 Once the footer is set, it will automatically display on your website as the custom footer.
