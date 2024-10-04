@@ -17,6 +17,6 @@ https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin
 
 5) Text Domain Manager  </br>
 Description: Automatically adds text domains for missing strings via a user-configurable settings page. </br>
-Plugin URI: https://github.com/childtheme/codesupple
+Plugin URI: https://github.com/childtheme/codesupple/tree/text-domain-manager
 
 
