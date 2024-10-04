@@ -6,7 +6,7 @@ Youtube Video instruction: https://www.youtube.com/watch?v=7iJVH67Cg7A
 
 [![Watch the video](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/prevew.png)](https://www.youtube.com/watch?v=7iJVH67Cg7A)
 
-[Download mp4 video instruction](https://github.com/childtheme/codesupple/blob/main/video_customizer.mp4)
+[Download mp4 video instruction](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/video_customizer.mp4)
 
 After installation, please navigate to the Appearance > Import Customizer Data tab.
 
