@@ -15,7 +15,7 @@ https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/
 Description: A plugin to create a gallery with captions at the bottom and allow columns selection via shortcode </br>
 https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin
 
-5) Text Domain Manager
+5) Text Domain Manager  </br>
 Description: Automatically adds text domains for missing strings via a user-configurable settings page. </br>
 Plugin URI: https://github.com/childtheme/codesupple
 
