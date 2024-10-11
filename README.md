@@ -12,7 +12,7 @@ Click Add New, choose Section, and design your footer using Elementor’s free v
 Publish the footer template.
 Assign the Footer Template in Plugin Settings:
 
-3. After activating the plugin, go to Settings → Custom Footer in your WordPress dashboard.
+3. Finally, go to the Settings → Custom Footer in your WordPress dashboard.
 Select the footer template you created from the dropdown list and click Save Footer Template.
 
 Once the footer is set, it will automatically display on your website as the custom footer.
