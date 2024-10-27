@@ -4,14 +4,17 @@ Allows users to import Customizer settings from multiple .dat files using One Cl
 
 Youtube Video instruction: https://www.youtube.com/watch?v=7iJVH67Cg7A
 
+Instruction:
+
+1. The OCDI plugin should be install and active too!
+https://wordpress.org/plugins/one-click-demo-import/
+
+2. Then install the current Plugin Customizer Importer for Maag WordPress theme. After installation, please navigate to the Appearance > Import Customizer Data tab.
+
 [![Watch the video](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/prevew.png)](https://www.youtube.com/watch?v=7iJVH67Cg7A)
 
 [Download mp4 video instruction](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/video_customizer.mp4)
 
-After installation, please navigate to the Appearance > Import Customizer Data tab.
-
-The OCDI plugin should be active too!
-https://wordpress.org/plugins/one-click-demo-import/
 
 Important: You are only importing Customizer settings (.dat files) from the list below.
 
