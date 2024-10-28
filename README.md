@@ -1,22 +1,28 @@
-Hello and welcome to my CodeSupply plugins page! </br>
-Please navigate to the branches or links below to download plugins and instructions.
+Instruction:
+1. Activate the Child theme and place this file on the Child theme > inc folder.
+2. Place this code on the bottom Child theme >function.php:
 
-1) Customizer Import for Maag WordPress themes  </br>
-https://github.com/childtheme/codesupple/tree/customizer-importer-maag 
+<code>
+function swyft_custom_logo_url_customizer( $wp_customize ) {
+    // Add a section in the Customizer
+    $wp_customize->add_section( 'swyft_logo_settings', array(
+        'title'    => __( 'Logo Settings', 'your-theme-textdomain' ),
+        'priority' => 30,
+    ) );
 
-2) Customizer Import for Newsreader WordPress themes: </br>
-https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
+    // Add the setting for the custom logo URL
+    $wp_customize->add_setting( 'custom_logo_url', array(
+        'default'           => home_url( '/' ),
+        'sanitize_callback' => 'esc_url_raw',
+    ) );
 
-4) Custom Footer for Elementor (Free Version). </br>
-Description: A plugin to add a custom footer using the free version of Elementor. </br>
-https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/
-
-5) DP Gallery with Caption. </br>
-Description: A plugin to create a gallery with captions at the bottom and allow columns selection via shortcode </br>
-https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin
-
-5) Text Domain Manager  </br>
-Description: Automatically adds text domains for missing strings via a user-configurable settings page. </br>
-Plugin URI: https://github.com/childtheme/codesupple/tree/text-domain-manager
-
-
+    // Add the control for the custom logo URL
+    $wp_customize->add_control( 'custom_logo_url_control', array(
+        'label'    => __( 'Custom Logo URL', 'your-theme-textdomain' ),
+        'section'  => 'swyft_logo_settings',
+        'settings' => 'custom_logo_url',
+        'type'     => 'url',
+    ) );
+}
+add_action( 'customize_register', 'swyft_custom_logo_url_customizer' );
+</code>
