@@ -8,7 +8,7 @@ Instruction:
 function swyft_custom_logo_url_customizer( $wp_customize ) {
     // Add a section in the Customizer
     $wp_customize->add_section( 'swyft_logo_settings', array(
-        'title'    => __( 'Logo Settings', 'your-theme-textdomain' ),
+        'title'    => __( 'Logo Settings', 'swyft' ),
         'priority' => 30,
     ) );
     // Add the setting for the custom logo URL
@@ -18,7 +18,7 @@ function swyft_custom_logo_url_customizer( $wp_customize ) {
     ) );
     // Add the control for the custom logo URL
     $wp_customize->add_control( 'custom_logo_url_control', array(
-        'label'    => __( 'Custom Logo URL', 'your-theme-textdomain' ),
+        'label'    => __( 'Custom Logo URL', 'swyft' ),
         'section'  => 'swyft_logo_settings',
         'settings' => 'custom_logo_url',
         'type'     => 'url',
