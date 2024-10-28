@@ -1,6 +1,8 @@
+Adds a custom logo URL option to the WordPress Customizer for the Swyft theme, allowing users to set a custom link for the logo.
 Instruction:
 1. Activate the Child theme and place this file on the Child theme > inc folder.
 2. Place this code on the bottom Child theme >function.php:
+3. Set link on the Appearance > Customizer > Logo Settings
 
 <code>
 function swyft_custom_logo_url_customizer( $wp_customize ) {
