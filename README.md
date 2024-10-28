@@ -17,6 +17,9 @@ Select the footer template you created from the dropdown list and click Save Foo
 
 Once the footer is set, it will automatically display on your website as the custom footer.
 
+Video tutorial:
+https://youtu.be/RGaVluVKZV4
+
 I recommend to use this free Footer library:
 https://elebuilds.com/free-elementor-footer-templates-pack-1/
 
