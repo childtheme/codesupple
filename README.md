@@ -1,3 +1,14 @@
+> ### ⚠️ Disclaimer
+> **Please note** that I am **not an official developer of the CodeSupply themes**.  
+> These plugins are provided "**as is**."  
+> 
+> #### Important Notice
+> - **Backup Requirement**: Before using any of these plugins, it is essential to create a full backup of your site.  
+> - **Usage Agreement**: If you do not agree with this, please refrain from using these plugins on your site.
+>
+> **Liability**: I am not responsible for any site issues, plugin conflicts, or malfunctions that may occur, and I do not provide support for these plugins.
+
+
 Hello and welcome to my CodeSupply plugins page! </br>
 Please navigate to the branches or links below to download plugins and instructions.
 
