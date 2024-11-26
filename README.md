@@ -48,5 +48,18 @@ Automatically add text domains for missing strings with a user-configurable sett
 
 ---
 
+### 6. **Cutom logo link for Swyft WordPress Theme**  
+Adds a custom logo URL option to the WordPress Customizer for the Swyft theme, allowing users to set a custom link for the logo.  
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-swyft)  
+
+---
+
+### 7. **Cutom logo link plugin for Revision WordPress Theme**  
+Adds a custom logo URL option to the WordPress Customizer for the Revision theme, allowing users to set a custom link for the logo.  
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-revision)  
+
+---
+
+
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
 
