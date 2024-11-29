@@ -1,62 +1,36 @@
-# Welcome to My CodeSupply Plugins Page! 🎉  
+# Polylang Text Widget
 
-Explore a collection of helpful plugins designed to enhance your WordPress experience. Simply navigate to the branches or links below to download plugins and detailed instructions.  
+A WordPress plugin that allows you to display language-specific content in widgets, integrated with the **Polylang** plugin. This widget enables you to define and show different content based on the current language selected by the user.
 
----
+## Features
 
-## ⚠️ Disclaimer  
+- **Multilingual Support**: Display different content for each language (e.g., English, Arabic) using the Polylang plugin.
+- **Gutenberg Integration**: Allows users to insert Gutenberg blocks into the widget content.
+- **Easy Setup**: Simple settings page to define language-specific text content.
+- **Dynamic Display**: Content in the widget automatically switches based on the active language.
 
-> **Please Note**: I am **not an official developer of CodeSupply themes**. These plugins are provided "**as is**" and come with the following considerations:  
-> 
-> ### Important Notice  
-> - **Backup Requirement**: Ensure you create a full backup of your site before using any of these plugins.  
-> - **Usage Agreement**: If you disagree with this disclaimer, please refrain from using these plugins on your site.  
->
-> **Liability**: I am not responsible for any issues, plugin conflicts, or malfunctions that may arise. Additionally, I do not provide support for these plugins.  
+## Installation
 
----
+1. Download and install the **Polylang Text Widget** plugin.
+2. Go to **Settings > Polylang Text Widget** in your WordPress dashboard to configure content for each language.
+3. Add the widget to any sidebar via **Appearance > Widgets** and select the language for each version of the widget.
 
-## Available Plugins  
+## How It Works
 
-### 1. **Customizer Import for Maag WordPress Themes**  
-Easily import Customizer settings tailored for the Maag theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-maag)  
+The plugin creates a widget that allows you to define content separately for each language (e.g., English and Arabic). The widget content dynamically updates based on the selected language. You can use Gutenberg blocks within the content, and it will be rendered on the front end.
 
----
+## Screenshot
 
-### 2. **Customizer Import for Newsreader WordPress Themes**  
-Simplify importing Customizer settings for the Newsreader theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader)  
+![Polylang Text Widget Screenshot](https://github.com/childtheme/codesupple/blob/polylang-text-widget/screenshot.jpg)
 
----
+## Video Demo
 
-### 3. **Custom Footer for Elementor (Free Version)**  
-Design a custom footer using the free version of Elementor.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/)  
+[Watch the demo video](https://github.com/childtheme/codesupple/blob/polylang-text-widget/video.mp4) to see how the plugin works.
 
----
+## License
 
-### 4. **DP Gallery with Caption**  
-Create galleries with captions displayed at the bottom and customize columns via shortcode.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin)  
+This plugin is licensed under the [MIT License](LICENSE).
 
----
-
-### 5. **Text Domain Manager**  
-Automatically add text domains for missing strings with a user-configurable settings page.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/text-domain-manager)  
-
----
-
-### 6. **Cutom logo link for Swyft WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Swyft theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-swyft)  
-
----
-
-### 7. **Cutom logo link plugin for Revision WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Revision theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-revision)  
 
 ---
 
