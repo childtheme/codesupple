@@ -13,7 +13,7 @@ A WordPress plugin that allows you to display language-specific content in widge
 
 1. Download and install the **Polylang Text Widget** plugin.
 2. Go to **Settings > Polylang Text Widget** in your WordPress dashboard to configure content for each language.
-3. Add the widget to any sidebar via **Appearance > Widgets** and select the language for each version of the widget.
+3. Add the Polylang widget to any sidebar via **Appearance > Widgets** and select the language for each version of the widget.
 
 ## How It Works
 
