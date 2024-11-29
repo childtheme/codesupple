@@ -60,6 +60,13 @@ Adds a custom logo URL option to the WordPress Customizer for the Revision theme
 
 ---
 
+### 8. **Polylang Text Widget for Swyft and Revision WordPress Themes**  
+A WordPress plugin that allows you to display language-specific content in widgets, integrated with the Polylang plugin. 
+This widget enables you to define and show different content based on the current language selected by the user.
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/polylang-text-widget?tab=readme-ov-file#polylang-text-widget)  
+
+---
+
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
 
