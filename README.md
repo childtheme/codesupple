@@ -21,4 +21,4 @@ A lightweight WordPress plugin that allows users to customize the "Discover More
 3. Enter your custom text in the **Discover More Text** field.
 4. Save your changes.
 
-![Alt text](https://github.com/childtheme/codesupple/custom-more-text/screenshot.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/custom-more-text/screenshot.jpg)
