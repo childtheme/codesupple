@@ -65,8 +65,12 @@ A WordPress plugin that allows you to display language-specific content in widge
 This widget enables you to define and show different content based on the current language selected by the user.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/polylang-text-widget?tab=readme-ov-file#polylang-text-widget)  
 
----
 
+### 9. **Custom Discover More Text WordPress Plugin**  
+A lightweight WordPress plugin that allows users to customize the "Discover More" button text directly from the Appearance > Customize menu.
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-more-text#custom-discover-more-text-wordpress-plugin)  
+
+---
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
 
