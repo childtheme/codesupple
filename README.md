@@ -1,72 +1,22 @@
-# Welcome to My CodeSupply Plugins Page! 🎉  
+# Custom Discover More Text WordPress Plugin
 
-Explore a collection of helpful plugins designed to enhance your WordPress experience. Simply navigate to the branches or links below to download plugins and detailed instructions.  
+A lightweight WordPress plugin that allows users to customize the "Discover More" button text directly from the **Appearance > Customize** menu.
 
----
+## Features
 
-## ⚠️ Disclaimer  
+- Adds a new section called **Extra** under the WordPress Customizer.
+- Lets users replace the "Discover More" text with any custom text.
+- Seamlessly integrates with themes using the `csco_discover_more_button` function.
 
-> **Please Note**: I am **not an official developer of CodeSupply themes**. These plugins are provided "**as is**" and come with the following considerations:  
-> 
-> ### Important Notice  
-> - **Backup Requirement**: Ensure you create a full backup of your site before using any of these plugins.  
-> - **Usage Agreement**: If you disagree with this disclaimer, please refrain from using these plugins on your site.  
->
-> **Liability**: I am not responsible for any issues, plugin conflicts, or malfunctions that may arise. Additionally, I do not provide support for these plugins.  
+## Installation
 
----
+1. Download the plugin files and upload them to your WordPress site's `wp-content/plugins/` directory.
+2. Alternatively, download the `.zip` file, and upload it via the **Plugins > Add New > Upload Plugin** option in the WordPress Admin Dashboard.
+3. Activate the plugin from the **Plugins** menu.
 
-## Available Plugins  
+## Usage
 
-### 1. **Customizer Import for Maag WordPress Themes**  
-Easily import Customizer settings tailored for the Maag theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-maag)  
-
----
-
-### 2. **Customizer Import for Newsreader WordPress Themes**  
-Simplify importing Customizer settings for the Newsreader theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader)  
-
----
-
-### 3. **Custom Footer for Elementor (Free Version)**  
-Design a custom footer using the free version of Elementor.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/)  
-
----
-
-### 4. **DP Gallery with Caption**  
-Create galleries with captions displayed at the bottom and customize columns via shortcode.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin)  
-
----
-
-### 5. **Text Domain Manager**  
-Automatically add text domains for missing strings with a user-configurable settings page.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/text-domain-manager)  
-
----
-
-### 6. **Cutom logo link for Swyft WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Swyft theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-swyft)  
-
----
-
-### 7. **Cutom logo link plugin for Revision WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Revision theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-revision)  
-
----
-
-### 8. **Polylang Text Widget for Swyft and Revision WordPress Themes**  
-A WordPress plugin that allows you to display language-specific content in widgets, integrated with the Polylang plugin. 
-This widget enables you to define and show different content based on the current language selected by the user.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/polylang-text-widget?tab=readme-ov-file#polylang-text-widget)  
-
----
-
-
-Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
-
+1. Go to **Appearance > Customize**.
+2. Navigate to the new **Extra** section.
+3. Enter your custom text in the **Discover More Text** field.
+4. Save your changes.
