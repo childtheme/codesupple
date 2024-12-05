@@ -70,6 +70,11 @@ This widget enables you to define and show different content based on the curren
 A lightweight WordPress plugin that allows users to customize the "Discover More" button text directly from the Appearance > Customize menu.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-more-text#custom-discover-more-text-wordpress-plugin)  
 
+
+### 10. **Featured Posts Block**  
+Displays selected posts in a widget.
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/featured-posts-block#featured-posts-block)  
+
 ---
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
