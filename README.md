@@ -65,6 +65,9 @@ Navigate to **Settings > Dynamic Author Widget** to configure global settings:
   - Author's truncated biography (with "Read More" link).
   - A list of their posts.
 
+<img src="https://github.com/childtheme/codesupple/blob/dynamic-author-widget/result.jpg" alt="Result" style="width: 300px; height: auto;">
+<img src="https://github.com/childtheme/codesupple/blob/dynamic-author-widget/settings.jpg" alt="Settings" style="width: 300px; height: auto;">
+
 ---
 
 ## Styling
@@ -96,5 +99,3 @@ The plugin includes basic styling that aligns the widget content and removes bul
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊
 
-![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/result.jpg)
-![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/settings.jpg)
