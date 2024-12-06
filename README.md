@@ -91,10 +91,10 @@ The plugin includes basic styling that aligns the widget content and removes bul
 }
 
 
-![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/result.jpg)
-![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/settings.jpg)
 
 ---
 
-Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
+Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊
 
+![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/result.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/settings.jpg)
