@@ -26,8 +26,8 @@ A lightweight WordPress plugin that dynamically displays the **current post's au
 2. Upload the `.zip` file via **Plugins > Add New > Upload Plugin** in your WordPress Admin Dashboard.
 3. Activate the plugin.
 
-![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/result.jpg)
-![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/settings.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/result.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/dynamic-author-widget/settings.jpg)
 
 ---
 
