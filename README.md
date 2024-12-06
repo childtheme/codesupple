@@ -75,7 +75,7 @@ A lightweight WordPress plugin that allows users to customize the "Discover More
 Displays selected posts in a widget.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/featured-posts-block#featured-posts-block)  
 
-### 11. **Featured Posts Block**  
+### 11. **Enhanced Dynamic Author Widget**  
 The Enhanced Dynamic Author Widget plugin dynamically displays the current post's author avatar, biography, and a list of their posts in a customizable widget. It also includes options to display post dates, categories, and more.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dynamic-author-widget#enhanced-dynamic-author-widget)  
 
