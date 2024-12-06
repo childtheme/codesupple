@@ -1,79 +1,33 @@
-# Welcome to My CodeSupply Plugins Page! 🎉  
+# Dynamic Author Avatar and Posts Widget
 
-Explore a collection of helpful plugins designed to enhance your WordPress experience. Simply navigate to the branches or links below to download plugins and detailed instructions.  
-
----
-
-## ⚠️ Disclaimer  
-
-> **Please Note**: I am **not an official developer of CodeSupply themes**. These plugins are provided "**as is**" and come with the following considerations:  
-> 
-> ### Important Notice  
-> - **Backup Requirement**: Ensure you create a full backup of your site before using any of these plugins.  
-> - **Usage Agreement**: If you disagree with this disclaimer, please refrain from using these plugins on your site.  
->
-> **Liability**: I am not responsible for any issues, plugin conflicts, or malfunctions that may arise. Additionally, I do not provide support for these plugins.  
+A lightweight WordPress plugin that dynamically displays the **current post's author avatar** and their **latest or random posts** in the sidebar. Ideal for multi-author blogs and content-heavy websites.
 
 ---
 
-## Available Plugins  
+## Features
 
-### 1. **Customizer Import for Maag WordPress Themes**  
-Easily import Customizer settings tailored for the Maag theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-maag)  
+- **Dynamic Author Detection**:
+  - Automatically identifies the author of the currently displayed post or page.
+  
+- **Display Author Avatar**:
+  - Displays the author’s avatar with built-in styling for alignment and visibility.
 
----
+- **Latest or Random Posts**:
+  - Widget settings allow you to choose whether to display the author’s latest posts or random posts.
 
-### 2. **Customizer Import for Newsreader WordPress Themes**  
-Simplify importing Customizer settings for the Newsreader theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader)  
-
----
-
-### 3. **Custom Footer for Elementor (Free Version)**  
-Design a custom footer using the free version of Elementor.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/)  
+- **Debugging Support**:
+  - Provides debug messages for easier issue resolution during development or testing.
 
 ---
 
-### 4. **DP Gallery with Caption**  
-Create galleries with captions displayed at the bottom and customize columns via shortcode.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin)  
+## Installation
 
----
+1. Clone or download this repository as a `.zip` file.
+2. Upload the `.zip` file via **Plugins > Add New > Upload Plugin** in your WordPress Admin Dashboard.
+3. Activate the plugin.
 
-### 5. **Text Domain Manager**  
-Automatically add text domains for missing strings with a user-configurable settings page.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/text-domain-manager)  
-
----
-
-### 6. **Cutom logo link for Swyft WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Swyft theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-swyft)  
-
----
-
-### 7. **Cutom logo link plugin for Revision WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Revision theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-revision)  
-
----
-
-### 8. **Polylang Text Widget for Swyft and Revision WordPress Themes**  
-A WordPress plugin that allows you to display language-specific content in widgets, integrated with the Polylang plugin. 
-This widget enables you to define and show different content based on the current language selected by the user.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/polylang-text-widget?tab=readme-ov-file#polylang-text-widget)  
-
-
-### 9. **Custom Discover More Text WordPress Plugin**  
-A lightweight WordPress plugin that allows users to customize the "Discover More" button text directly from the Appearance > Customize menu.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-more-text#custom-discover-more-text-wordpress-plugin)  
-
-
-### 10. **Featured Posts Block**  
-Displays selected posts in a widget.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/featured-posts-block#featured-posts-block)  
+![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/result.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/customizer-importer-maag/settings.jpg)
 
 ---
 
