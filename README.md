@@ -21,9 +21,9 @@ Or, download the video directly:
 ### How to Use the Customizer Importer  
 1. Install and activate the **One Click Demo Import** (OCDI) plugin:  
    [Get OCDI Plugin](https://wordpress.org/plugins/one-click-demo-import/)
-   
-3. Please import the demo withiut Customizer on the Appearance > Demo Import.
-4. Finaly navigate to `Appearance > Import Customizer Data` in your WordPress dashboard anbd import Customizer date which you need..  
+   Install and activate the current Customizer Import Plugin:  https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader
+3. Please import the demo without Customizer on the Appearance > Demo Import.
+4. Finaly navigate to `Appearance > Import Customizer Data` in your WordPress dashboard anbd import Customizer date which you need.
 
 > **Important**: This plugin only imports Customizer settings. If you need to import a full demo (including content and widgets), head to `Appearance > Themes Demos`. Ensure your license is active!  
 
