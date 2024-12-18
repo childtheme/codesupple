@@ -16,68 +16,58 @@ Explore a collection of helpful plugins designed to enhance your WordPress exper
 
 ---
 
-## Available Plugins  
+# Custom Error Handler Plugin
 
-### 1. **Customizer Import for Maag WordPress Themes**  
-Easily import Customizer settings tailored for the Maag theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-maag)  
+Custom Error Handler is a WordPress plugin that allows you to manage and customize the appearance of 404 and 410 error pages on your website. With this plugin, you can define custom messages, button text, and colors using an intuitive settings interface. It supports WordPress's native color picker for a seamless user experience.
+
+## Features
+
+- **Custom 404 Error Page**: Create a unique 404 (Page Not Found) error page to guide users back to useful content.
+- **Custom 410 Error Page**: Design a tailored 410 (Gone) error page for permanently removed content.
+- **Visual Customization**: Adjust text, button colors, and messages using WordPress's built-in color picker and a simple settings page.
+- **Easy Integration**: Works out of the box with no coding required.
+- **Lightweight and Efficient**: Minimal impact on site performance.
+
+## Installation
+
+1. Download the plugin zip file.
+2. Log in to your WordPress admin dashboard.
+3. Navigate to **Plugins > Add New**.
+4. Click on the **Upload Plugin** button at the top.
+5. Choose the downloaded zip file and click **Install Now**.
+6. Activate the plugin once installed.
+
+## Usage
+
+1. Navigate to **Settings > Error Page Settings** in your WordPress admin menu.
+2. Customize the 404 and 410 error pages:
+   - Set the title, message, and button text.
+   - Use the color pickers to adjust text and button colors.
+3. Save your changes.
+
+## Compatibility
+
+- Requires WordPress 5.0 or higher.
+- Compatible with PHP 7.4 or higher.
+
+## Contributing
+
+Contributions are welcome! If you encounter a bug or have an idea for a feature, feel free to open an issue or submit a pull request on GitHub.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+1. **Settings Page**: Configure 404 and 410 error page content and colors.
+2. **Customized 404 Page**: Example of a user-defined 404 error page.
+3. **Customized 410 Page**: Example of a user-defined 410 error page.
 
 ---
 
-### 2. **Customizer Import for Newsreader WordPress Themes**  
-Simplify importing Customizer settings for the Newsreader theme.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/customizer-importer-newsreader)  
+**Developed by Dmitrii Chempalov.**
 
----
-
-### 3. **Custom Footer for Elementor (Free Version)**  
-Design a custom footer using the free version of Elementor.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/)  
-
----
-
-### 4. **DP Gallery with Caption**  
-Create galleries with captions displayed at the bottom and customize columns via shortcode.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dp-gallery-caption-plugin)  
-
----
-
-### 5. **Text Domain Manager**  
-Automatically add text domains for missing strings with a user-configurable settings page.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/text-domain-manager)  
-
----
-
-### 6. **Cutom logo link for Swyft WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Swyft theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-swyft)  
-
----
-
-### 7. **Cutom logo link plugin for Revision WordPress Theme**  
-Adds a custom logo URL option to the WordPress Customizer for the Revision theme, allowing users to set a custom link for the logo.  
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-logo-revision)  
-
----
-
-### 8. **Polylang Text Widget for Swyft and Revision WordPress Themes**  
-A WordPress plugin that allows you to display language-specific content in widgets, integrated with the Polylang plugin. 
-This widget enables you to define and show different content based on the current language selected by the user.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/polylang-text-widget?tab=readme-ov-file#polylang-text-widget)  
-
-
-### 9. **Custom Discover More Text WordPress Plugin**  
-A lightweight WordPress plugin that allows users to customize the "Discover More" button text directly from the Appearance > Customize menu.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-more-text#custom-discover-more-text-wordpress-plugin)  
-
-
-### 10. **Featured Posts Block**  
-Displays selected posts in a widget.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/featured-posts-block#featured-posts-block)  
-
-### 11. **Enhanced Dynamic Author Widget**  
-The Enhanced Dynamic Author Widget plugin dynamically displays the current post's author avatar, biography, and a list of their posts in a customizable widget. It also includes options to display post dates, categories, and more.
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dynamic-author-widget#enhanced-dynamic-author-widget)  
 
 
 ---
