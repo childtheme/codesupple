@@ -23,4 +23,4 @@ https://youtu.be/RGaVluVKZV4
 I recommend to use this free Footer library:
 https://elebuilds.com/free-elementor-footer-templates-pack-1/
 
-![Alt text](https://github.com/childtheme/codesupple/blob/main/screenshot.jpg)
+![Alt text](https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/screenshot.jpg)
