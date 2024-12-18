@@ -61,8 +61,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots
 
 1. **Settings Page**: Configure 404 and 410 error page content and colors.
-2. **Customized 404 Page**: Example of a user-defined 404 error page.
-3. **Customized 410 Page**: Example of a user-defined 410 error page.
+   ![Alt text](https://github.com/childtheme/codesupple/blob/custom-error-handler/404.jpg) 
+3. **Customized 404 Page**: Example of a user-defined 404 error page.
+4. **Customized 410 Page**: Example of a user-defined 410 error page.
 
 ---
 
