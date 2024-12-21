@@ -1,26 +1,59 @@
-Custom Footer for Elementor (Free Version).
-A plugin to add a custom footer using the free version of Elementor.
+# Custom Footer for Elementor (Free Version)
 
-Steps to Set Up the Plugin
+A lightweight and user-friendly plugin that allows you to add a custom footer to your WordPress website using the **free version of Elementor**. Design a footer that fits your website perfectly—without any premium features!
 
-1. Once you've created the plugin, go to your WordPress dashboard, navigate to Plugins, and activate the Custom Footer for Elementor (Free Version) plugin.
+---
 
-2. Create an Elementor Footer Template:
+## Features
 
-Go to Elementor → Templates → Saved Templates.
-Click Add New, choose Section, and design your footer using Elementor’s free version.
-Publish the footer template.
-Assign the Footer Template in Plugin Settings:
+- **Seamless Integration**: Works perfectly with Elementor’s free version.
+- **Fully Customizable**: Create footers tailored to your brand and style.
+- **Easy to Use**: No coding skills needed—just a few clicks to set up!
 
-3. Finally, go to the Settings → Custom Footer in your WordPress dashboard.
-Select the footer template you created from the dropdown list and click Save Footer Template.
+---
 
-Once the footer is set, it will automatically display on your website as the custom footer.
+## Installation and Setup
 
-Video tutorial:
-https://youtu.be/RGaVluVKZV4
+Follow these steps to create and activate your custom footer:
 
-I recommend to use this free Footer library:
-https://elebuilds.com/free-elementor-footer-templates-pack-1/
+### Step 1: Install and Activate the Plugin
+1. Upload the plugin to your WordPress dashboard.
+2. Go to **Plugins** → **Installed Plugins**.
+3. Activate the **Custom Footer for Elementor (Free Version)** plugin.
 
-![Alt text](https://github.com/childtheme/codesupple/blob/custom-footer-elementor-free/screenshot.jpg)
+### Step 2: Create an Elementor Footer Template
+1. Navigate to **Elementor** → **Templates** → **Saved Templates**.
+2. Click **Add New**, choose **Section**, and design your footer using Elementor’s free widgets.
+3. Publish your footer template.
+
+### Step 3: Assign the Footer Template
+1. Go to **Settings** → **Custom Footer** in your WordPress dashboard.
+2. Select your newly created footer template from the dropdown list.
+3. Click **Save Footer Template**.
+
+🎉 Your custom footer will now automatically display on your website!
+
+---
+
+## Video Tutorial
+
+Need help? Watch this step-by-step video tutorial:  
+[![Video Tutorial](https://img.youtube.com/vi/RGaVluVKZV4/0.jpg)](https://youtu.be/RGaVluVKZV4)
+
+---
+
+## Recommended Free Footer Templates
+
+Don’t want to design from scratch? Check out this library of free footer templates:  
+[EleBuilds Free Elementor Footer Templates Pack](https://elebuilds.com/free-elementor-footer-templates-pack-1/)
+
+---
+
+## Hide the Default Footer
+
+To remove your theme’s default footer and display only your custom footer, add the following CSS code in **Appearance** → **Customizer** → **Additional CSS**:
+
+```css
+.cs-footer {
+    display: none;
+}
