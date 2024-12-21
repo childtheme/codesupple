@@ -79,6 +79,9 @@ Displays selected posts in a widget.
 The Enhanced Dynamic Author Widget plugin dynamically displays the current post's author avatar, biography, and a list of their posts in a customizable widget. It also includes options to display post dates, categories, and more.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/dynamic-author-widget#enhanced-dynamic-author-widget)  
 
+### 12. **Custom Error Handler Plugin**  
+Custom Error Handler is a WordPress plugin that allows you to manage and customize the appearance of 404 and 410 error pages on your website.
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/custom-error-handler?tab=readme-ov-file#custom-error-handler-plugin)  
 
 ---
 
