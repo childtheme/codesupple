@@ -44,11 +44,11 @@ The **Custom Shortcode Before Content Plugin** allows WordPress users to display
 ### 3. Check the Output
 - Visit the post on the frontend.
 - The output should display:
-
-```html
 Hello, John! This is an example shortcode output.
-
 ---
+
+   ![Alt text](https://github.com/childtheme/codesupple/blob/shortcode/example.jpg) 
+
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
 
