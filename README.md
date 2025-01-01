@@ -14,7 +14,9 @@ A simple WordPress plugin that enables and displays excerpts on pages, just like
 
 ## Installation
 
-### Option 1: Manual Installation
+You can simple install plugin via Wordpres > Add New Plugin tab.
+
+### Manual Installation
 
 1. **Download the Plugin**:
    - You can [download the plugin](https://github.com/childtheme/codesupple/blob/page-excerpt-display/page-excerpt-display.zip) as a ZIP file or clone the repository.
