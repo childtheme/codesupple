@@ -1,0 +1,64 @@
+
+.swiper {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; /* Center align text */
+    width: 100%;
+}
+
+.featured-post-thumbnail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px; /* Space between thumbnail and title */
+}
+
+.featured-post-thumbnail img {
+    border-radius: 12px; /* Optional: rounded corners for thumbnails */
+    max-width: 80%;
+    height: auto;
+}
+
+.featured-posts h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    margin: 0;
+}
+
+.swiper-pagination {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background: #0073e6;
+    opacity: 0.7;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: 1;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    color: #0073e6;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.swiper-button-prev {
+    left: -20px;
+}
+
+.swiper-button-next {
+    right: -20px;
+}
