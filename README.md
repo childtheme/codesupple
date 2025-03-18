@@ -2,6 +2,18 @@
 
 A WordPress plugin that allows you to set a custom header using the free version of Elementor.
 
+## ⚠️ Disclaimer  
+
+> **Please Note**: I am **not an official developer of CodeSupply themes**. These plugins are provided "**as is**" and come with the following considerations:  
+> 
+> ### Important Notice  
+> - **Backup Requirement**: Ensure you create a full backup of your site before using any of these plugins.  
+> - **Usage Agreement**: If you disagree with this disclaimer, please refrain from using these plugins on your site.  
+>
+> **Liability**: I am not responsible for any issues, plugin conflicts, or malfunctions that may arise. Additionally, I do not provide support for these plugins.  
+
+---
+
 ## ⭐ Features
 - Assign any Elementor template as a custom header.
 - Works with the free version of Elementor.
