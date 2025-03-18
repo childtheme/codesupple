@@ -34,6 +34,9 @@ A WordPress plugin that allows you to set a custom header using the free version
 
 Your Elementor template will now be used as your website's custom header! 🎉
 
+Use this free Elementor header template pack:
+🔗 https://elebuilds.com/free-elementor-footer-templates-pack-1
+
 ## 🎨 Hiding the Default Theme Header
 To ensure only your custom Elementor header is displayed, the plugin automatically applies the following CSS:
 
