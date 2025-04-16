@@ -46,7 +46,7 @@ WordPress 5.0+
 Fully compatible with any theme
 
 ## 💡 Screenshot
-
+![Alt text](https://github.com/childtheme/codesupple/blob/You-May-Also-Like/screenshot.jpg)
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
