@@ -88,7 +88,7 @@ Custom Error Handler is a WordPress plugin that allows you to manage and customi
 The Custom Shortcode Before Content Plugin allows WordPress users to display custom shortcodes before the content or above the title for each individual post. It uses a custom field to specify unique shortcodes for each post, making it flexible and highly customizable.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/shortcode#welcome-to-my-codesupply-plugins-page-)  
 
-### 13. **You may also like Plugin**  
+### 14. **You may also like Plugin**  
 A lightweight and elegant WordPress plugin that displays related posts after each blog post based on shared categories. Posts are shown in a modern, responsive grid layout, complete with featured images, titles, short excerpts, and metadata. Perfect for improving user engagement and reducing bounce rates.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/You-May-Also-Like)  
 
