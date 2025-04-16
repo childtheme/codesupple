@@ -1,6 +1,6 @@
 A lightweight and elegant WordPress plugin that displays related posts after each blog post based on shared categories. Posts are shown in a modern, responsive grid layout, complete with featured images, titles, short excerpts, and metadata. Perfect for improving user engagement and reducing bounce rates.
 
-🧩 Features
+## 🧩 Features
 🔗 Related posts by category
 🖼 Modern grid-based layout with featured images
 ✍️ Displays post title, excerpt, author, and date
@@ -8,31 +8,31 @@ A lightweight and elegant WordPress plugin that displays related posts after eac
 🎨 Easy to customize with built-in CSS
 ⚡ Lightweight and no settings required — just activate and go!
 
-🛠 Installation
+## 🛠 Installation
 Download or clone this repository.
 Upload the plugin folder to /wp-content/plugins/you-may-also-like/
 Activate the plugin from your WordPress dashboard.
 Done! Related posts will now appear below each single post.
 
-📁 File Structure
+## 📁 File Structure
 you-may-also-like/
 ├── you-may-also-like.php
 └── style.css
 
-✏️ Customization
+## ✏️ Customization
 Edit the style.css file to match your theme’s design. You can adjust the number of posts by modifying posts_per_page in you-may-also-like.php.
 
-✅ Compatibility
+## ✅ Compatibility
 WordPress 5.0+
 
 Fully compatible with any theme
 
-💡 Screenshot
+## 💡 Screenshot
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
+## 📄 License
 This plugin is open-sourced under the MIT License.
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊
