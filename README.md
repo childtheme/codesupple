@@ -15,8 +15,8 @@ Activate the plugin from your WordPress dashboard.<br>
 Done! Related posts will now appear below each single post.
 
 ## 📁 File Structure
-you-may-also-like/
-├── you-may-also-like.php
+you-may-also-like/<br>
+├── you-may-also-like.php<br>
 └── style.css
 
 ## ✏️ Customization
