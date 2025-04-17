@@ -93,8 +93,7 @@ A lightweight and elegant WordPress plugin that displays related posts after eac
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/You-May-Also-Like)  
 
 ### 15. **Same Category Posts Widget**  
-
-🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/Same-Category-Posts-Widget)  
+### 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/Same-Category-Posts-Widget)  
 ---
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
