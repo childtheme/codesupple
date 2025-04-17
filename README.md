@@ -20,7 +20,8 @@ Explore a collection of helpful plugins designed to enhance your WordPress exper
 
 ### 1. To install widget, please go to the WP Admin > Appearance > Widgets
 ➡️ Add the widget “📂 Same Category Posts” to the Sidebar
- <img src="https://github.com/childtheme/codesupple/blob/Same-Category-Posts-Widget/screen.jpg" alt="Result" style="width: 300px; height: auto;">
+
+###  <img src="https://github.com/childtheme/codesupple/blob/Same-Category-Posts-Widget/screen.jpg" alt="Result" style="width: 300px; height: auto;">
 
 ---
 
