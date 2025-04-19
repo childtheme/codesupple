@@ -33,4 +33,4 @@ A lightweight WordPress plugin that adds a custom footer section with **4 widget
      - `Footer Column 4`  
    - Add your desired widgets (Text, Menus, Social Icons, etc.).
 
-
+###  <img src="https://github.com/childtheme/codesupple/blob/Custom-Footer-with-4-Widget-Columns/footer.jpg" alt="Result" style="width: 300px; height: auto;">
