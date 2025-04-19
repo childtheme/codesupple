@@ -24,7 +24,7 @@ A lightweight WordPress plugin that adds a custom footer section with **4 widget
 
 ## 🧩 How to Use
 
-1. **Add Widgets**  
+**Add Widgets**  
    - Go to **Appearance → Widgets** or **Customize → Widgets**.  
    - Locate the widget areas:  
      - `Footer Column 1`  
@@ -33,10 +33,4 @@ A lightweight WordPress plugin that adds a custom footer section with **4 widget
      - `Footer Column 4`  
    - Add your desired widgets (Text, Menus, Social Icons, etc.).
 
-2. **Insert Footer in Your Theme**  
-   - Open your `footer.php` file and add the following line where you want the custom footer to appear:
 
-   ```php
-   if (function_exists('cf_render_footer_widgets')) {
-       cf_render_footer_widgets();
-   }
