@@ -97,7 +97,7 @@ A lightweight and elegant WordPress plugin that displays related posts after eac
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/Same-Category-Posts-Widget)  
 
 ### 16. **Custom Footer with 4 Widget Columns**  
-
+A lightweight WordPress plugin that adds a custom footer section with 4 widget-ready columns. Perfect for those who prefer not to use Elementor or other page builders.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/Custom-Footer-with-4-Widget-Columns)  
 
 ### 17. **You may also like**  
