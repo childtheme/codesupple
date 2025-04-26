@@ -104,6 +104,9 @@ A lightweight WordPress plugin that adds a custom footer section with 4 widget-r
 A lightweight and elegant WordPress plugin that displays related posts after each blog post based on shared categories.
 🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/You-May-Also-Like)  
 
+### 18. **Page Excerpt Display Plugin**  
+🔗 [Download & Instructions](https://github.com/childtheme/codesupple/tree/page-excerpt-display)  
+
 
 Thank you for exploring these plugins! If you have any feedback or suggestions, feel free to share them in the respective GitHub repositories. 😊  
 
